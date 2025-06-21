@@ -52,7 +52,7 @@
             <img src="https://hivestorm.org/images/header-hs.png" alt="Hivestorm" height="100" />
           </a>
           <a href="https://sigpwny.com" style="margin: 0 8px;">
-            <img src="./assets/pwny.png" alt="SIGPwny Purple Team Lead" height="90" />
+            <img src="./pwny.png" alt="SIGPwny Purple Team Lead" height="90" />
           </a>
         </div>
       </div>
