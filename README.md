@@ -20,10 +20,10 @@
             <img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=78373729" width="120" alt="OSCP" />
           </a>
           <a href="https://verified.elearnsecurity.com/certificates/bd7aded3-277d-4158-8b8c-6dd7e51b479b" style="margin: 0 8px;">
-            <img src="https://security.ine.com/wp-content/uploads/2023/08/eCPPT.png" width="90" alt="eCPPTv2" />
+            <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc5xv63nfpn07irxufr2b8z" width="90" alt="eCPPTv2" />
           </a>
           <a href="https://verified.elearnsecurity.com/certificates/cb0c4f95-5f69-4b49-9326-93664d4fcc64" style="margin: 0 8px;">
-            <img src="https://security.ine.com/wp-content/uploads/2023/08/eJPT-1.png" width="90" alt="eJPT" />
+            <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" width="90" alt="eJPT" />
           </a>
         </div>
       </div>
