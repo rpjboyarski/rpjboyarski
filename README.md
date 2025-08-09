@@ -75,7 +75,6 @@
         <ul style="line-height: 1.5; font-size: 14px; padding-left: 20px;">
           <li>Multiple fully undetected shellcode loaders with a track record of evading top-tier EDRs</li>
           <li>Custom rootkits capable of running on the latest version of Windows 11, including VBS, HVCI, and the driver blocklist</li>
-          <li>Credential dumping tools capable of running on Windows machines with VBS, HVCI, driver blocklist, and EDR agents</li>
           <li>A Next-Generation Command and Control framework with unique capabilities for speed and stealth</li>
           <li>Custom obfuscation tech capable of making commodity malware FUD</li>
           <li>Agentic offensive security AI</li>
