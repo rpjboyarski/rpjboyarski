@@ -30,6 +30,9 @@
       <div style="text-align:center; margin-bottom: 30px;">
         <h1>🥷 Experience</h1>
         <div>
+          <a href="https://labs.hackthebox.com/achievement/badge/1629997/283" style="margin: 0 8px;">
+            <img src="https://app.hackthebox.com/images/icons/ic-prolabs/ic-ifrit-certs.svg" alt="Ifrit" height="110" />
+          </a>
           <a href="https://www.hackthebox.com/achievement/badge/1629997/36" style="margin: 0 8px;">
             <img src="https://app.hackthebox.com/images/icons/ic-prolabs/ic-rastalabs-certs.svg" alt="RastaLabs" height="110" />
           </a>
