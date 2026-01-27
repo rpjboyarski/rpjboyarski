@@ -40,7 +40,7 @@
             <img src="https://app.hackthebox.com/images/icons/ic-prolabs/ic-zephyr-certs.svg" alt="Zephyr" height="100" />
           </a>
           <a href="https://tryhackme.com/p/ronanboyargmail" style="margin: 0 8px;">
-            <img src="https://tryhackme.com/img/badges/redteamcapstone.svg" alt="Red Team Capstone" height="100" />
+            <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/ba73a855-82dd-46c6-b209-9f08c5bc9f1e" alt="Red Team Capstone" height="100" />
           </a>
           <a href="https://github.com/sandialabs/Tracer-FIRE" style="margin: 0 8px;">
             <img src="https://github.com/sandialabs/Tracer-FIRE/blob/main/media/TF_Logo.png?raw=true" alt="TracerFIRE" height="100" />
@@ -49,7 +49,7 @@
             <img src="https://www.energy.gov/sites/default/files/styles/full_article_width/public/2024-07/2023%20CyberForce%20Program.png?itok=DklWOWcP" alt="CyberForce" height="100" />
           </a>
           <a href="https://www.caeepnc.org/mw-ccdc/" style="margin: 0 8px;">
-            <img src="https://www.caeepnc.org/wp-content/uploads/2020/03/New-MWCCDC-Logo-2-01-300x138.png" alt="MWCCDC" height="100" />
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwuTkVwzlmEA7SdGm6fa_YlFbFQqt6KXzBkGU117pF9g&s&ec=121516168" alt="MWCCDC" height="100" />
           </a>
           <a href="https://hivestorm.org/" style="margin: 0 8px;">
             <img src="https://hivestorm.org/images/header-hs.png" alt="Hivestorm" height="100" />
