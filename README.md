@@ -4,12 +4,6 @@
       <div style="text-align:center; margin-bottom: 30px;">
         <h1>🛡️ Certifications</h1>
         <div>
-          <a href="https://eu.badgr.com/public/assertions/_4pvSxT8R0-P3FcJj5MTVA" style="margin: 0 8px;">
-            <img src="https://api.eu.badgr.io/public/assertions/_4pvSxT8R0-P3FcJj5MTVA/image" width="120" alt="CRTL" />
-          </a>
-          <a href="https://eu.badgr.com/public/assertions/ZJyCUzBWTYmobqZXgpDZow" style="margin: 0 8px;">
-            <img src="https://api.eu.badgr.io/public/assertions/ZJyCUzBWTYmobqZXgpDZow/image" width="120" alt="CRTO" />
-          </a>
           <a href="https://credentials.offsec.com/8abc0cc5-f62e-435a-b2e8-9b56c1932879#acc.Q6uaZ1yk" style="margin: 0 6px;">
             <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/177268693" width="120" alt="OSCE3" />
           </a>
@@ -25,6 +19,16 @@
           <a href="https://www.credential.net/cd440ab3-cf2c-4e4e-9a62-e527300c74ed" style="margin: 0 6px;">
             <img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=78373729" width="120" alt="OSCP" />
           </a>
+        </div>
+        <div>
+           <a href="https://eu.badgr.com/public/assertions/_4pvSxT8R0-P3FcJj5MTVA" style="margin: 0 8px;">
+            <img src="https://api.eu.badgr.io/public/assertions/_4pvSxT8R0-P3FcJj5MTVA/image" width="120" alt="CRTL" />
+          </a>
+          <a href="https://eu.badgr.com/public/assertions/ZJyCUzBWTYmobqZXgpDZow" style="margin: 0 8px;">
+            <img src="https://api.eu.badgr.io/public/assertions/ZJyCUzBWTYmobqZXgpDZow/image" width="120" alt="CRTO" />
+          </a>
+        </div>
+        <div>
           <a href="https://verified.elearnsecurity.com/certificates/bd7aded3-277d-4158-8b8c-6dd7e51b479b" style="margin: 0 6px;">
             <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc5xv63nfpn07irxufr2b8z" width="90" alt="eCPPTv2" />
           </a>
