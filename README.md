@@ -4,31 +4,31 @@
       <div style="text-align:center; margin-bottom: 30px;">
         <h1>🛡️ Certifications</h1>
         <div>
-          <a href="https://credentials.offsec.com/8abc0cc5-f62e-435a-b2e8-9b56c1932879#acc.Q6uaZ1yk" style="margin: 0 8px;">
-            <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/177268693" width="120" alt="OSCE3" />
-          </a>
-          <a href="https://credentials.offsec.com/99825e17-0af5-457d-8ae0-29a9fb48aadc#acc.2EwlOQ63" style="margin: 0 8px;">
-            <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/177268687" width="120" alt="OSWE" />
-          </a>
           <a href="https://eu.badgr.com/public/assertions/_4pvSxT8R0-P3FcJj5MTVA" style="margin: 0 8px;">
             <img src="https://api.eu.badgr.io/public/assertions/_4pvSxT8R0-P3FcJj5MTVA/image" width="120" alt="CRTL" />
           </a>
           <a href="https://eu.badgr.com/public/assertions/ZJyCUzBWTYmobqZXgpDZow" style="margin: 0 8px;">
             <img src="https://api.eu.badgr.io/public/assertions/ZJyCUzBWTYmobqZXgpDZow/image" width="120" alt="CRTO" />
           </a>
-          <a href="https://www.credential.net/5db2ae4b-d866-44ae-8e61-46e4b3401b10" style="margin: 0 8px;">
+          <a href="https://credentials.offsec.com/8abc0cc5-f62e-435a-b2e8-9b56c1932879#acc.Q6uaZ1yk" style="margin: 0 6px;">
+            <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/177268693" width="120" alt="OSCE3" />
+          </a>
+          <a href="https://credentials.offsec.com/99825e17-0af5-457d-8ae0-29a9fb48aadc#acc.2EwlOQ63" style="margin: 0 6px;">
+            <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/177268687" width="120" alt="OSWE" />
+          </a>
+          <a href="https://www.credential.net/5db2ae4b-d866-44ae-8e61-46e4b3401b10" style="margin: 0 6px;">
             <img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=111785692" width="120" alt="OSED" />
           </a>
-          <a href="https://www.credential.net/bc782a5c-99a6-4efd-913e-a25da2480736" style="margin: 0 8px;">
+          <a href="https://www.credential.net/bc782a5c-99a6-4efd-913e-a25da2480736" style="margin: 0 6px;">
             <img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=93544384" width="120" alt="OSEP" />
           </a>
-          <a href="https://www.credential.net/cd440ab3-cf2c-4e4e-9a62-e527300c74ed" style="margin: 0 8px;">
+          <a href="https://www.credential.net/cd440ab3-cf2c-4e4e-9a62-e527300c74ed" style="margin: 0 6px;">
             <img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=78373729" width="120" alt="OSCP" />
           </a>
-          <a href="https://verified.elearnsecurity.com/certificates/bd7aded3-277d-4158-8b8c-6dd7e51b479b" style="margin: 0 8px;">
+          <a href="https://verified.elearnsecurity.com/certificates/bd7aded3-277d-4158-8b8c-6dd7e51b479b" style="margin: 0 6px;">
             <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc5xv63nfpn07irxufr2b8z" width="90" alt="eCPPTv2" />
           </a>
-          <a href="https://verified.elearnsecurity.com/certificates/cb0c4f95-5f69-4b49-9326-93664d4fcc64" style="margin: 0 8px;">
+          <a href="https://verified.elearnsecurity.com/certificates/cb0c4f95-5f69-4b49-9326-93664d4fcc64" style="margin: 0 6px;">
             <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" width="90" alt="eJPT" />
           </a>
         </div>
