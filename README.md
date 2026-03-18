@@ -4,6 +4,9 @@
       <div style="text-align:center; margin-bottom: 30px;">
         <h1>🛡️ Certifications</h1>
         <div>
+          <a href="https://credentials.offsec.com/99825e17-0af5-457d-8ae0-29a9fb48aadc#acc.2EwlOQ63" style="margin: 0 8px;">
+            <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/177268687" width="120" alt="OSWE" />
+          </a>
           <a href="https://eu.badgr.com/public/assertions/_4pvSxT8R0-P3FcJj5MTVA" style="margin: 0 8px;">
             <img src="https://api.eu.badgr.io/public/assertions/_4pvSxT8R0-P3FcJj5MTVA/image" width="120" alt="CRTL" />
           </a>
