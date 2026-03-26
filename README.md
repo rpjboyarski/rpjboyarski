@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="1100" viewBox="0 0 900 1100" role="img" aria-label="GitHub Profile Summary">
   <foreignObject width="900" height="1100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color:#222; padding:10px;">
+      <div align="center">
       <div style="text-align:center; margin-bottom: 30px;">
         <h1>🛡️ Certifications</h1>
         <div>
@@ -36,6 +37,7 @@
             <img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" width="90" alt="eJPT" />
           </a>
         </div>
+      </div>
       </div>
       <div style="text-align:center; margin-bottom: 30px;">
         <h1>🥷 Experience</h1>
